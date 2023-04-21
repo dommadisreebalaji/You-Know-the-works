@@ -1,0 +1,82 @@
+* {
+    color: #1B4F72;
+    font-family: 'Roboto';
+}
+
+.bg-container {
+    background-color: #F1948A;
+    min-height: 100vh;
+}
+
+.profile-card {
+    text-align: center;
+    width: 20%;
+}
+
+.icon {
+    border: 3px solid #1B4F72;
+    border-radius: 1000px;
+    font-size: 22px;
+
+}
+
+.icon-bg {
+    background-color: #1B4F72;
+    color: #F1948A;
+    font-size: 28px;
+}
+
+.profile-heading {
+    font-weight: 200;
+    font-size: 8px;
+}
+
+.name-card {
+    border-right: 3px solid #1B4F72;
+    width: 40%;
+}
+
+.name {
+    font-size: 14px;
+}
+
+.work-description {
+    font-size: 8px;
+}
+
+.address-card {
+    width: 40%;
+    border-bottom: 3px solid #1B4F72;
+}
+
+.address {
+    font-size: 8px;
+}
+
+.years-card {
+    width: 20%;
+    border-bottom: 3px solid #1B4F72;
+}
+
+.work-card {
+    width: 60%;
+    border-bottom: 3px solid #1B4F72;
+}
+
+.interests {
+    border-bottom: 3px solid #1B4F72;
+    width: 80%;
+}
+
+.work-name {
+    font-size: 8px;
+    font-weight: 900;
+}
+
+.dot {
+    font-size: 8px;
+}
+
+.job {
+    font-size: 8px;
+}
